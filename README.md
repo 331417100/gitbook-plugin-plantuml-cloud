@@ -58,9 +58,9 @@ The plugin now supports two APIs for generating PlantUML diagrams:
 
 ```js
 {
-  "plugins": ["plantuml-cloud-languages"],
+  "plugins": ["plantuml-cloud-languages-ok"],
   "pluginsConfig": {
-    "plantuml-cloud-languages": {
+    "plantuml-cloud-languages-ok": {
       "protocol": "http",
       "type": "plantuml-server",
       "host": "www.plantuml.com",
