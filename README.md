@@ -12,6 +12,7 @@ Package published at [gitbook-plugin-plantuml-cloud-languages](https://www.npmjs
 
 * inspired by [romanlytkin/gitbook-plantuml](https://github.com/romanlytkin/gitbook-plantuml)
 * forked from [dy93/gitbook-plugin-plantuml-cloud](https://github.com/dy93/gitbook-plugin-plantuml-cloud)
+* forked from [rodgalvao/gitbook-plugin-plantuml-cloud](https://github.com/rodgalvao/gitbook-plugin-plantuml-cloud)
 
 The plugin now supports two APIs for generating PlantUML diagrams:
 * [bitjourney/plantuml-service](https://github.com/bitjourney/plantuml-service)

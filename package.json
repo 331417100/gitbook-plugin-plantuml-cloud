@@ -2,14 +2,14 @@
   "name": "gitbook-plugin-plantuml-cloud-languages",
   "description": "GitBook-PlantUML integration with support for Asciidoc",
   "main": "index.js",
-  "version": "1.0.29",
+  "version": "0.0.1",
   "engines": {
     "gitbook": "*"
   },
-  "homepage": "https://github.com/rodgalvao/gitbook-plugin-plantuml-cloud",
+  "homepage": "https://github.com/331417100/gitbook-plugin-plantuml-cloud",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodgalvao/gitbook-plugin-plantuml-cloud.git"
+    "url": "git+https://github.com/331417100/gitbook-plugin-plantuml-cloud.git"
   },
   "license": "Apache-2.0",
   "scripts": {
