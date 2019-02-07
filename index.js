@@ -88,10 +88,10 @@ module.exports = {
 
 			Promise.all([umls.map(uml => {
 				var renderTag = '';
-				if (options.language = 'markdown') {
+				if (options.language === 'markdown') {
 					renderTag = '![](/' + uml.renderPath + ')';
 				}
-				if (options.language = 'asciidoc') {
+				if (options.language === 'asciidoc') {
 					renderTag = 'image::' + uml.renderPath + '[]';
 				}
 				page.content = content = content.replace(uml.rawBlock, renderTag);
