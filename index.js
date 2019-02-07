@@ -34,7 +34,7 @@ module.exports = {
 	hooks: {
 		"init": function () {
 			var output = this.output;
-			var config = this.config.values.pluginsConfig["plantuml-cloud-languages"];
+			var config = this.config.values.pluginsConfig["plantuml-cloud-languages1"];
 
 			if (config.umlPath != undefined) {
 				options.umlPath = config.umlPath;
