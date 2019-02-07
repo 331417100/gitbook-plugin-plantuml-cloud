@@ -15,9 +15,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rod Galvao <ro+npm@rogalvao.com> et al.",
+  "author": "h331417100 <359257025@163.com>",
   "dependencies": {
     "module": "^1.2.5",
     "shelljs": "^0.7.6"
+  },
+  "bugs": {
+    "url": "https://github.com/331417100/gitbook-plugin-plantuml-cloud/issues"
   }
 }
