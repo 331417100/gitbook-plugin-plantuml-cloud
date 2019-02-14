@@ -7,6 +7,7 @@ Added new parameters: language, host's port and output format
 * Added support for asciidoc.
 * Added support for plantuml running in another server's port
 * Added support for other output format (generated file extension)
+* Added support Chinese Font
 
 Package published at [gitbook-plugin-plantuml-cloud-languages](https://www.npmjs.com/package/gitbook-plugin-plantuml-cloud-languages)
 
@@ -20,7 +21,7 @@ The plugin now supports two APIs for generating PlantUML diagrams:
 
 ## NPM Installation
 
-```$ npm install gitbook-plugin-plantuml-cloud-languages```
+```$ npm install gitbook-plugin-plantuml-cloud-languages-ok```
 
 ## Gitbook Installation
 
@@ -28,7 +29,7 @@ The plugin now supports two APIs for generating PlantUML diagrams:
 
 ```js
 {
-  "plugins": ["plantuml-cloud-languages"]
+  "plugins": ["plantuml-cloud-languages-ok"]
 }
 ```
 

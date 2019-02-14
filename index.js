@@ -24,8 +24,8 @@ require('shelljs/global');
 
 
 function plantumlServerEscape(block) {
-	//UTF8
-	var toDeflate = unescape(encodeURIComponent(block));
+	//UTF8 + 中文字 
+	var toDeflate = decodeURIComponent(encodeURIComponent(block));
 	var deflated = zlib.deflateRawSync(toDeflate, { level: 9 });
 	return plantUml.encode64(deflated);
 }

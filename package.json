@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-plantuml-cloud-languages-ok",
   "description": "GitBook-PlantUML integration with support for Asciidoc",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "gitbook": "*"
   },
